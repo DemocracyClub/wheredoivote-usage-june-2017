@@ -1,0 +1,392 @@
+council id,council name,all searches,found station
+E06000001,Hartlepool Borough Council,2017,2002
+E06000002,Middlesbrough Borough Council,4544,4159
+E06000003,Redcar and Cleveland Borough Council,4026,4006
+E06000004,Stockton-on-Tees Borough Council,8357,0
+E06000005,Darlington Borough Council,3070,0
+E06000006,Halton Borough Council,4740,0
+E06000007,Warrington Borough Council,7739,7678
+E06000008,Blackburn with Darwen Borough Council,4289,2909
+E06000009,Blackpool Borough Council,5198,0
+E06000010,Kingston-upon-Hull City Council,6765,6685
+E06000011,East Riding of Yorkshire Council,7536,0
+E06000012,North East Lincolnshire Council,3391,3380
+E06000013,North Lincolnshire Council,3857,0
+E06000014,York City Council,8769,5902
+E06000015,Derby City Council,7420,7355
+E06000016,Leicester City Council,11386,11266
+E06000017,Rutland County Council,710,0
+E06000018,Nottingham City Council,15769,15608
+E06000019,Herefordshire Council,3620,3584
+E06000020,Telford and Wrekin Council,4581,4562
+E06000021,Stoke on Trent City Council,8381,8275
+E06000022,Bath & North East Somerset Council,6209,6159
+E06000023,Bristol City Council,22631,22620
+E06000024,North Somerset Council,5372,0
+E06000025,South Gloucestershire Council,12438,0
+E06000026,Plymouth City Council,6960,6884
+E06000027,Torbay Council,3921,2772
+E06000028,Bournemouth Council,8280,8189
+E06000029,Borough of Poole Council,4705,4681
+E06000030,Swindon Borough Council,5706,5685
+E06000031,Peterborough City Council,4914,4877
+E06000032,Luton Borough Council,6664,6605
+E06000033,Southend-on-Sea Borough Council,6083,0
+E06000034,Thurrock Council,3829,3814
+E06000035,Medway Council,6323,6271
+E06000036,Bracknell Forest Borough Council,2872,2040
+E06000037,West Berkshire Council,4508,4449
+E06000038,Reading Borough Council,7389,7292
+E06000039,Slough Borough Council,5426,0
+E06000040,Royal Borough of Windsor and Maidenhead,3666,3578
+E06000041,Wokingham Borough Council,4679,4638
+E06000042,Milton Keynes Council,7339,7258
+E06000043,Brighton and Hove Council,18558,18396
+E06000044,Portsmouth City Council,6818,6784
+E06000045,Southampton City Council,10262,10260
+E06000046,Isle of Wight Council,2734,2710
+E06000047,Durham County Council,14479,0
+E06000049,Cheshire East Council,11764,0
+E06000050,Cheshire West and Chester City,9026,8972
+E06000051,Shropshire County Council,5259,5214
+E06000052,Cornwall Council,11608,0
+E06000053,Council of the Isles of Scilly,20,0
+E06000054,Wiltshire Council,9150,0
+E06000055,Bedford Borough Council,5271,0
+E06000056,Central Bedfordshire Council,7042,7007
+E06000057,Northumberland County Council,9294,0
+E07000004,Aylesbury Vale District Council,5528,5476
+E07000005,Chiltern District Council,2046,0
+E07000006,South Buckinghamshire District Council,1907,0
+E07000007,Wycombe District Council,4779,4779
+E07000008,Cambridge City Council,6009,5845
+E07000009,East Cambridgeshire District Council,1439,0
+E07000010,Fenland District Council,1522,1512
+E07000011,Huntingdonshire District Council,3793,3766
+E07000012,South Cambridgeshire District Council,3223,3191
+E07000026,Allerdale Borough Council,1732,0
+E07000027,Barrow-in-Furness Borough Council,1610,1610
+E07000028,Carlisle City Council,1862,0
+E07000029,Copeland Borough Council,1360,0
+E07000030,Eden District Council,698,537
+E07000031,South Lakeland District Council,2065,0
+E07000032,Amber Valley Borough Council,3852,0
+E07000033,Bolsover District Council,1649,1632
+E07000034,Chesterfield Borough Council,2864,2837
+E07000035,Derbyshire Dales District Council,1036,0
+E07000036,Erewash Borough Council,3090,0
+E07000037,High Peak Borough Council,2669,0
+E07000038,N.E. Derbyshire District Council,2254,0
+E07000039,South Derbyshire District Council,2349,0
+E07000040,East Devon District Council,3195,0
+E07000041,Exeter City Council,3470,3429
+E07000042,Mid Devon District Council,1410,1405
+E07000043,North Devon Council,1492,1480
+E07000044,South Hams District Council,1539,1526
+E07000045,Teignbridge District Council,2619,2612
+E07000046,Torridge District Council,1071,1067
+E07000047,West Devon Borough Council,875,871
+E07000048,Christchurch Borough Council,1157,1134
+E07000049,East Dorset District Council,1667,1657
+E07000050,North Dorset District Council,1374,1357
+E07000051,Purbeck District Council,809,0
+E07000052,West Dorset District Council,1884,1864
+E07000053,Weymouth & Portland Borough Council,1533,1526
+E07000061,Eastbourne Borough Council,2183,2171
+E07000062,Hastings Borough Council,2736,2699
+E07000063,Lewes District Council,3027,0
+E07000064,Rother District Council,1694,0
+E07000065,Wealden District Council,3053,0
+E07000066,Basildon Borough Council,4203,4181
+E07000067,Braintree District Council,2867,0
+E07000068,Brentwood Borough Council,1841,0
+E07000069,Castle Point Borough Council,1731,0
+E07000070,Chelmsford City Council,5161,5100
+E07000071,Colchester Borough Council,5762,0
+E07000072,Epping Forest District Council,3710,0
+E07000073,Harlow District Council,1943,0
+E07000074,Maldon District Council,1132,0
+E07000075,Rochford District Council,1746,0
+E07000076,Tendring District Council,2308,2306
+E07000077,Uttlesford District Council,1603,0
+E07000078,Cheltenham Borough Council,3229,3229
+E07000079,Cotswold District Council,1375,1360
+E07000080,Forest of Dean District Council,1257,0
+E07000081,Gloucester City Council,3260,3235
+E07000082,Stroud District Council,1923,1914
+E07000083,Tewkesbury Borough Council,2016,0
+E07000084,Basingstoke and Deane Borough Council,4501,0
+E07000085,East Hampshire District Council,3044,0
+E07000086,Eastleigh Borough Council,3306,0
+E07000087,Fareham Borough Council,2858,2451
+E07000088,Gosport Borough Council,2194,0
+E07000089,Hart District Council,2097,2086
+E07000090,Havant Borough Council,3267,0
+E07000091,New Forest District Council,3235,3220
+E07000092,Rushmoor Borough Council,2816,0
+E07000093,Test Valley Borough Council,2622,2595
+E07000094,Winchester City Council,3021,0
+E07000095,Broxbourne Borough Council,2540,0
+E07000096,Dacorum Borough Council,4667,0
+E07000098,Hertsmere Borough Council,2958,2958
+E07000099,North Hertfordshire District Council,3423,0
+E07000102,Three Rivers District Council,2464,2454
+E07000103,Watford Borough Council,3641,0
+E07000105,Ashford Borough Council,2941,2909
+E07000106,Canterbury City Council,5616,5616
+E07000107,Dartford Borough Council,3088,0
+E07000108,Dover District Council,1942,1942
+E07000109,Gravesham Borough Council,2548,2529
+E07000110,Maidstone Borough Council,3053,3025
+E07000111,Sevenoaks District Council,2174,2174
+E07000112,Shepway District Council,2597,0
+E07000113,Swale Borough Council,2994,2978
+E07000114,Thanet District Council,3457,3456
+E07000115,Tonbridge and Malling Borough Council,2312,2312
+E07000116,Tunbridge Wells Borough Council,2138,2138
+E07000117,Burnley Borough Council,2172,2161
+E07000118,Chorley Borough Council,2559,2549
+E07000119,Fylde Borough Council,1815,1807
+E07000120,Hyndburn Borough Council,2491,2465
+E07000121,Lancaster City Council,5439,5398
+E07000122,Pendle Borough Council,1977,1969
+E07000123,Preston City Council,4682,4650
+E07000124,Ribble Valley Borough Council,1238,1237
+E07000125,Rossendale Borough Council,1957,1944
+E07000126,South Ribble Borough Council,3176,3148
+E07000127,West Lancashire Borough Council,3242,3198
+E07000128,Wyre Borough Council,2572,2567
+E07000129,Blaby District Council,2529,0
+E07000130,Charnwood Borough Council,6184,0
+E07000131,Harborough District Council,1718,0
+E07000132,Hinckley & Bosworth Borough Council,2644,0
+E07000133,Melton Borough Council,747,0
+E07000134,N.W. Leicestershire District Council,2631,0
+E07000135,Oadby & Wigston District Council,1642,1634
+E07000136,Boston Borough Council,927,0
+E07000137,East Lindsey District Council,2116,0
+E07000138,Lincoln City Council,3589,0
+E07000139,North Kesteven District Council,2157,2146
+E07000140,South Holland District Council,1333,0
+E07000141,South Kesteven District Council,2453,2437
+E07000142,West Lindsey District Council,1818,0
+E07000143,Breckland Council,2285,2135
+E07000144,Broadland District Council,2428,0
+E07000145,Great Yarmouth Borough Council,2082,0
+E07000146,King's Lynn & West Norfolk,2486,2484
+E07000147,North Norfolk District Council,1229,1218
+E07000148,Norwich City Council,6339,6310
+E07000149,South Norfolk District Council,2791,0
+E07000150,Corby Borough Council,1933,0
+E07000151,Daventry District Council,1311,1309
+E07000152,East Northamptonshire Council,2141,0
+E07000153,Kettering Borough Council,1990,1979
+E07000154,Northampton Borough Council,7871,0
+E07000155,South Northamptonshire Council,1808,0
+E07000156,Wellingborough Borough Council,1480,1480
+E07000163,Craven District Council,931,928
+E07000164,Hambleton District Council,1706,0
+E07000165,Harrogate Borough Council,3505,3504
+E07000166,Richmondshire District Council,835,0
+E07000167,Ryedale District Council,1290,1277
+E07000168,Scarborough Borough Council,3538,0
+E07000169,Selby District Council,1908,1903
+E07000170,Ashfield District Council,2908,2908
+E07000171,Bassetlaw District Council,1702,1680
+E07000172,Broxtowe Borough Council,3336,3336
+E07000173,Gedling Borough Council,3250,3242
+E07000174,Mansfield District Council,2432,2350
+E07000175,Newark & Sherwood District Council,2276,0
+E07000176,Rushcliffe Borough Council,3123,3118
+E07000177,Cherwell District Council,3588,0
+E07000178,Oxford City Council,10035,9850
+E07000179,South Oxfordshire District Council,4409,0
+E07000180,Vale of White Horse District Council,3382,0
+E07000181,West Oxfordshire District Council,1625,1600
+E07000187,Mendip District Council,2632,0
+E07000188,Sedgemoor District Council,2614,2521
+E07000189,South Somerset District Council,3047,0
+E07000190,Taunton Deane Borough Council,3021,0
+E07000191,West Somerset Council,845,0
+E07000192,Cannock Chase District Council,2232,0
+E07000193,East Staffordshire Borough Council,2678,0
+E07000194,Lichfield District Council,1680,1679
+E07000195,Newcastle Under Lyme Borough Council,4516,0
+E07000196,South Staffordshire District Council,2056,0
+E07000197,Stafford Borough Council,3354,0
+E07000198,Staffordshire Moorlands District Council,1807,0
+E07000199,Tamworth Borough Council,1553,1548
+E07000200,Babergh District Council,1681,0
+E07000201,Forest Heath District Council,1251,1231
+E07000202,Ipswich Borough Council,3558,0
+E07000203,Mid Suffolk District Council,1808,0
+E07000204,St Edmundsbury Borough Council,1984,1945
+E07000205,Suffolk Coastal District Council,2326,0
+E07000206,Waveney District Council,2554,0
+E07000207,Elmbridge Borough Council,3901,0
+E07000208,Epsom and Ewell Borough Council,1849,1719
+E07000209,Guildford Borough Council,4870,4870
+E07000210,Mole Valley District Council,1732,0
+E07000211,Reigate and Banstead Borough Council,4447,0
+E07000212,Runnymede Borough Council,1863,1817
+E07000213,Spelthorne Borough Council,2850,0
+E07000214,Surrey Heath Borough Council,1760,1751
+E07000215,Tandridge District Council,1687,0
+E07000216,Waverley Borough Council,2833,0
+E07000217,Woking Borough Council,2796,0
+E07000218,North Warwickshire Borough Council,1137,0
+E07000219,Nuneaton and Bedworth Borough Council,2571,0
+E07000220,Rugby Borough Council,2629,2343
+E07000221,Stratford on Avon District Council,2925,369
+E07000222,Warwick District Council,4252,4224
+E07000223,Adur District Council,1736,1677
+E07000224,Arun District Council,3392,2502
+E07000225,Chichester District Council,2295,0
+E07000226,Crawley Borough Council,2661,2617
+E07000227,Horsham District Council,2452,2348
+E07000228,Mid Sussex District Council,3681,3647
+E07000229,Worthing Borough Council,3251,3243
+E07000234,Bromsgrove District Council,1746,1738
+E07000235,Malvern Hills District Council,1236,1224
+E07000236,Redditch Borough Council,1597,1583
+E07000237,Worcester City Council,2923,0
+E07000238,Wychavon District Council,1970,1959
+E07000239,Wyre Forest District Council,1794,1784
+E07000240,St Albans City & District Council,3597,3597
+E07000241,Welwyn Hatfield Borough Council,3740,0
+E07000242,East Hertfordshire District Council,3474,3229
+E07000243,Stevenage Borough Council,2011,0
+E08000001,Bolton Metropolitan Borough Council,8031,7975
+E08000002,Bury Metropolitan Borough Council,6192,6132
+E08000003,Manchester City Council,27069,26563
+E08000004,Oldham Metropolitan Borough Council,5384,5352
+E08000005,Rochdale Metropolitan Borough Council,4429,4057
+E08000006,Salford City Council,12201,12201
+E08000007,Stockport Metropolitan Borough Council,8458,8413
+E08000008,Tameside Metropolitan Borough Council,8228,8187
+E08000009,Trafford Metropolitan Borough Council,8835,8732
+E08000010,Wigan Metropolitan Borough Council,7992,7862
+E08000011,Knowsley Metropolitan Borough Council,7508,7476
+E08000012,Liverpool City Council,24448,24142
+E08000013,St Helens Metropolitan Borough Council,6458,5629
+E08000014,Sefton Metropolitan Borough Council,11274,11198
+E08000015,Wirral Metropolitan Borough of,10228,10184
+E08000016,Barnsley Metropolitan Borough Council,5621,4298
+E08000017,Doncaster Metropolitan Borough Council,7404,7404
+E08000018,Rotherham Metropolitan Borough Council,4838,4802
+E08000019,Sheffield City Council,20990,0
+E08000021,Newcastle City Council,13132,12917
+E08000022,North Tyneside Council,8938,0
+E08000023,South Tyneside Metropolitan Borough Council,4877,3444
+E08000024,Sunderland City Council,12406,0
+E08000025,Birmingham City Council,39563,0
+E08000026,Coventry City Council,12918,12794
+E08000027,Dudley Metropolitan Borough Council,6024,5974
+E08000028,Sandwell Metropolitan Borough Council,8249,8203
+E08000029,Solihull Metropolitan Borough Council,5260,5222
+E08000030,Walsall Metropolitan Borough Council,7030,6960
+E08000031,Wolverhampton City Council,6250,6250
+E08000032,Bradford Council,15487,15361
+E08000033,Calderdale Metropolitan Borough Council,6141,5906
+E08000034,Kirklees Metropolitan Council,10624,10530
+E08000035,Leeds City Council,30031,21239
+E08000036,Wakefield Metropolitan District Council,8282,0
+E08000037,Gateshead Metropolitan Borough Council,7207,7171
+E09000001,City of London Corporation,976,581
+E09000002,London Borough of Barking and Dagenham,6485,6485
+E09000003,London Borough of Barnet,14735,14598
+E09000004,London Borough of Bexley,8024,0
+E09000005,London Borough of Brent,12349,12291
+E09000006,London Borough of Bromley,9790,0
+E09000007,London Borough of Camden,17567,17564
+E09000008,London Borough of Croydon,13804,13697
+E09000009,London Borough of Ealing,11811,0
+E09000010,London Borough of Enfield,9939,9868
+E09000011,Royal Borough of Greenwich,8994,8919
+E09000012,London Borough of Hackney,17261,17049
+E09000013,London Borough of Hammersmith and Fulham,7999,7994
+E09000014,London Borough of Haringey,13677,13086
+E09000015,London Borough of Harrow,8098,8055
+E09000016,London Borough of Havering,6682,6600
+E09000017,London Borough of Hillingdon,10855,0
+E09000018,London Borough of Hounslow,13126,12976
+E09000019,London Borough of Islington,17010,16661
+E09000020,Royal Borough of Kensington and Chelsea,5924,5824
+E09000021,Royal Borough of Kingston Upon Thames,6147,6086
+E09000022,London Borough of Lambeth,25510,25507
+E09000023,London Borough of Lewisham,14886,14805
+E09000024,London Borough of Merton,7589,7539
+E09000025,London Borough of Newham,14145,14025
+E09000026,London Borough of Redbridge,11930,0
+E09000027,London Borough of Richmond Upon Thames,7386,0
+E09000028,London Borough of Southwark,18338,18094
+E09000029,London Borough of Sutton,6533,6499
+E09000030,London Borough of Tower Hamlets,19848,0
+E09000031,London Borough of Waltham Forest,12684,12595
+E09000032,London Borough of Wandsworth,18927,14175
+E09000033,City of Westminster,12699,0
+N09000001,Antrim and Newtownabbey,839,0
+N09000002,"Armagh, Banbridge and Craigavon",1046,0
+N09000003,Belfast,2583,0
+N09000004,Causeway Coast and Glens,860,0
+N09000005,Derry and Strabane,810,0
+N09000006,Fermanagh and Omagh,420,0
+N09000007,Lisburn and Castlereagh,822,0
+N09000008,Mid and East Antrim,688,0
+N09000009,Mid Ulster,480,0
+N09000010,"Newry, Mourne and Down",711,0
+N09000011,North Down and Ards,1052,0
+S12000005,Clackmannanshire Council,555,555
+S12000006,Dumfries and Galloway Council,1129,1129
+S12000008,East Ayrshire Council,1224,745
+S12000010,East Lothian Council,987,0
+S12000011,East Renfrewshire Council,998,998
+S12000013,Comhairle nan Eilean Siar,232,0
+S12000014,Falkirk Council,1915,1878
+S12000015,Fife Council,4681,4680
+S12000017,Highland Council,2950,0
+S12000018,Inverclyde Council,1051,0
+S12000019,Midlothian Council,1027,0
+S12000020,Moray Council,789,789
+S12000021,North Ayrshire Council,1745,0
+S12000023,Orkney Islands Council,176,0
+S12000024,Perth & Kinross Council,1565,1394
+S12000026,Scottish Borders Council,1094,1094
+S12000027,Shetland Islands Council,213,0
+S12000028,South Ayrshire Council,1403,0
+S12000029,South Lanarkshire Council,4576,0
+S12000030,Stirling Council,1268,0
+S12000033,Aberdeen City Council,4050,3937
+S12000034,Aberdeenshire Council,2162,2162
+S12000035,Argyll and Bute Council,680,0
+S12000036,City of Edinburgh Council,11127,11127
+S12000038,Renfrewshire Council,2384,0
+S12000039,West Dunbartonshire Council,1092,1092
+S12000040,West Lothian Council,1988,0
+S12000041,Angus Council,1661,0
+S12000042,Dundee City Council,3050,3050
+S12000044,North Lanarkshire Council,4422,0
+S12000045,East Dunbartonshire Council,1394,0
+S12000046,Glasgow City Council,13305,0
+W06000001,Isle of Anglesey County Council,1679,0
+W06000002,Gwynedd Council,2336,2312
+W06000003,Conwy County Borough Council,2732,2730
+W06000004,Denbighshire County Borough Council,2447,2392
+W06000005,Flintshire County Council,4503,0
+W06000006,Wrexham County Borough Council,3259,3237
+W06000008,Ceredigion County Council,1935,1848
+W06000009,Pembrokeshire County Council,1887,1887
+W06000010,Carmarthenshire County Council,4074,0
+W06000011,Swansea County Council,8851,8718
+W06000012,Neath Port Talbot County Borough Council,4771,4740
+W06000013,Bridgend County Borough Council,3698,0
+W06000014,Vale of Glamorgan Council,3351,3350
+W06000015,City of Cardiff Council,18122,11714
+W06000016,Rhondda Cynon Taf County Borough Council,7773,0
+W06000018,Caerphilly County Borough Council,4716,0
+W06000019,Blaenau Gwent County Borough Council,1719,1563
+W06000020,Torfaen County Borough Council,2894,2818
+W06000021,Monmouthshire County Council,2101,2101
+W06000022,Newport City Council,6306,0
+W06000023,Powys County Council,1789,0
+W06000024,Merthyr Tydfil County Borough Council,1485,1477
